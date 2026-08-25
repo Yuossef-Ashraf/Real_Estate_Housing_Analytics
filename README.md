@@ -1,28 +1,30 @@
-# Real Estate Housing Analytics & Clustering 🏠📊
+# Real Estate Housing Analytics
 
-Comprehensive housing data analysis including K-Means clustering, linear regression, and market visualization.
+An exploratory data analysis, regression, and clustering pipeline for real estate housing datasets.
 
-## Key Features ✨
-- Well-structured code and clean modular implementation.
-- Built with modern standard tools: **Python, Pandas, NumPy, Scikit-Learn, K-Means Clustering**.
-- Clean data preprocessing, EDA, and model evaluation metrics.
+## Contents
+- **Code**: `Real_Estate_Housing_Analytics (code).ipynb`
+- **Dataset / Resources**: `house.csv, Housing.csv`
+- **Documentation**: `README.md`
 
-## Project Structure 📂
-```
-Real_Estate_Housing_Analytics/
-├── .gitignore
-├── README.md
-└── ... (project source files)
+## Requirements
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 ```
 
-## Setup & Installation 🚀
+## Usage
+1. Clone the repository:
 ```bash
 git clone https://github.com/Yuossef-Ashraf/Real_Estate_Housing_Analytics.git
 cd Real_Estate_Housing_Analytics
 ```
+2. Open and run the project code:
+```bash
+jupyter notebook "Real_Estate_Housing_Analytics (code).ipynb"
+```
 
-## Author 👤
-Created and maintained by **Yuossef Ashraf**.
+## Author
+Yuossef Ashraf
 
-## License 📜
-Distributed under the MIT License.
+## License
+MIT License
