@@ -2,9 +2,9 @@
 
 An exploratory data analysis, regression, and clustering pipeline for real estate housing datasets.
 
-## Contents
+## Project Structure
 - **Code**: `Real_Estate_Housing_Analytics (code).ipynb`
-- **Dataset / Resources**: `house.csv, Housing.csv`
+- **Dataset / Resources**: `Housing.csv, house.csv`
 - **Documentation**: `README.md`
 
 ## Requirements
@@ -18,7 +18,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 git clone https://github.com/Yuossef-Ashraf/Real_Estate_Housing_Analytics.git
 cd Real_Estate_Housing_Analytics
 ```
-2. Open and run the project code:
+2. Run the project:
 ```bash
 jupyter notebook "Real_Estate_Housing_Analytics (code).ipynb"
 ```
